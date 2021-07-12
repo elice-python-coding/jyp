@@ -9,5 +9,6 @@ while n > 3:
         count += 1
     else:
         n = n - 1
+        count += 1
 
 print(count)
