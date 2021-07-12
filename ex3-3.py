@@ -20,7 +20,7 @@ for i in range(n):
 print(result)
 
 
-# 입력 에러가 납니다~ 
+# 입력 에러가 납니다~ -> 파이썬3 으로 실행시켜야 해결됨
 
 # Traceback (most recent call last):
 #  File "ex3-3.py", line 3, in <module>
