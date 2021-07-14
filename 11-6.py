@@ -13,7 +13,7 @@ def solution(food_times, k):
                 food_times[check] = food_times[check] - 1
                 k -= 1
             else:
-                k -= 1
+                k -= 1 # need to be corrected
     
     food_num = (i+1) // len(food_times)
 
